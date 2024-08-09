@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [],
+		"compounds": []
+	},
+	"extensions": {
+		"recommendations": [
+			"rust-lang.rust-analyzer",
+			"serayuzgur.crates",
+			"vadimcn.vscode-lldb",
+			"naumovs.color-highlight",
+			"timonwong.shellcheck"
+		],
+		"unwantedRecommendations": []
+	}
+}

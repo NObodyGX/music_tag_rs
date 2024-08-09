@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- NObodyGX 2024 <nobodygx@163.com> -->
+<component type="desktop-application">
+  <id>musictag</id>
+  <name>musictag</name>
+  <summary>A simple music metadata edit tool</summary>
+  <metadata_license>CC0</metadata_license>
+  <project_license>MIT</project_license>
+  <description>
+    <p>A simple edit tool to help modify music meta data easily</p>
+    <p>Build by rust with gtk4.</p>
+  </description>
+  <developer>
+    <name>NObodyGX</name>
+  </developer>
+  <screenshots>
+    <screenshot type="default">
+      <image>https://github.com/nobodygx/music_tag_rs/raw/master/data/screenshots/screenshot.png</image>
+      <caption>Main window</caption>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://github.com/nobodygx/music_tag_rs</url>
+  <url type="bugtracker">https://github.com/nobodygx/music_tag_rs/issues</url>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release version="0.7.1" date="2024-05-30" />
+  </releases>
+  <update_contact>nobodygx@163.com</update_contact>
+  <launchable type="desktop-id">musictag.desktop</launchable>
+</component>

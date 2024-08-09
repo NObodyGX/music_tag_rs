@@ -1,0 +1,17 @@
+[Desktop Entry]
+Categories=GNOME;GTK;Utility;
+Keywords=musictag;metadata;editor;
+Keywords[zh_CN]=音乐标签;元数据;编辑器;
+Exec=musictag
+Name=musictag
+Name[zh_CN]=musictag
+GenericName=musictag
+Comment=a simple music metadata edit tool
+Comment[zh_CN]=一个简单的音乐标签修改器
+
+# Translators: Do NOT translate or transliterate this text (this is an icon file name)!
+Icon=musictag
+StartupWMClass=musictag
+Terminal=false
+Type=Application
+StartupNotify=true
